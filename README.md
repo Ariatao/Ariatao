@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning Federated Learning
+- 👯 You can reach my personal blog home page at [ariatao.github.io](https://ariatao.github.io)
+
+
 <!--
 **Ariatao/Ariatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
