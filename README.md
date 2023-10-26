@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Federated Learning
-- 👯 You can reach my personal blog home page at [ariatao.github.io](https://ariatao.github.io)
+- 👯 You can reach my personal blogs at [ariatao.github.io](https://ariatao.github.io)
 
 
 <!--
